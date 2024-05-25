@@ -86,7 +86,7 @@ const Project = () => {
                         <div class="flip-card-back">
                             <h2>Facial recognition</h2>
                             <p>By the project we have to Do the attewndence by using Facial recognition and there have a chatbot to help the new user</p>
-                        <a href='https://github.com/Ayush-7130/Chat-App' target='_blank' rel="noopener noreferrer" className='btn-project'>GitHub</a>
+                        <a href='https://github.com/Raj13092002/Data-science-projects/tree/main/Face_Recognition_System' target='_blank' rel="noopener noreferrer" className='btn-project'>GitHub</a>
                         </div>
                     </div>
                 </div>
